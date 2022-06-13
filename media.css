@@ -1,0 +1,323 @@
+ @media only screen and (max-width: 991px) {
+     .container{
+         padding: 0;
+         margin: 0;
+     }
+ }
+
+
+ @media only screen and (max-width: 1346px) {
+    .header .container {
+        padding: 0 45px;
+    }
+}
+
+@media only screen and (max-width: 1040px) {
+    .header .container {
+        padding: 0 20px;
+    }
+}
+@media only screen and (max-width: 1355px) {
+    .sec-2 .container {
+        padding: 50px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .header .container .order-list {
+        display: none;
+    }
+
+    .header .container nav .menu-btn {
+        display: block;
+    }
+
+    .sec-2 {
+        margin: 80px 20px 80px 20px;
+    }
+
+    .sec-2 .container {
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+
+    }
+
+    .sec-2 .container .boxe-1 {
+        width: 30%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .sec-2 .container{
+        margin: 0;
+    }
+    .sec-2 .container .boxe-1{
+        width: 70%;
+        margin: 0;
+        
+    }
+    
+}
+@media only screen and (max-width: 576px) {
+    .sec-2 .container {
+        margin: 0;
+    }
+}
+@media only screen and (max-width: 991px) {
+    .sec-3 .container .box-2  {
+        flex-wrap: wrap;
+    
+        
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .sec-3 .container .box-2 .row-content {
+        width: 60%;
+    
+        
+    }
+}
+@media only screen and (max-width: 991px){
+    .sec-4 .container {
+        flex-wrap: wrap;
+    
+    }
+    .sec-4 .container .box-3{
+        width: 25%;
+    }
+}
+
+
+@media only screen and (max-width: 991px){
+    .sec-5 .container .box-4{
+        width: 100%;
+    }
+    .sec-5 .container{
+        flex-wrap: wrap;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .sec-11 .conatiner .portfolio{
+        flex-wrap: wrap;
+
+    }
+    .sec-11 .conatiner .portfolio .portfolio-wrap{
+        width: 25%;
+    }
+
+}
+@media only screen and (max-width: 768px){
+    .sec-11 .conatiner .portfolio .portfolio-wrap{
+        width: 90%;
+    }
+
+}
+@media only screen and (max-width: 1330px) {
+    .sec-12 .container .row {
+        padding: 40px;
+
+    }
+
+    .sec-12 .container .row .main {
+        margin: 30px;
+    }
+
+
+}
+
+@media only screen and (max-width: 991px) {
+    .sec-12 .container .row {
+        padding: 40px;
+        flex-wrap: wrap;
+        gap: 70px;
+
+
+    }
+
+    .sec-12 .container .row .main {
+        width: 45%;
+        margin: 0;
+    }
+
+
+}
+@media only screen and (max-width: 900px) {
+    .sec-12 .container .row {
+        padding: 70px;
+    }
+
+}
+@media only screen and (max-width: 860px) {
+    .sec-12 .container .row .main {
+        width: 45%;
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+    .sec-12 .container .row .main {
+        width: 90%;
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+    .sec-12 .container .row {
+        justify-content: center;
+        
+    }
+}
+
+
+@media only screen and (max-width: 1364px) {
+    .sec-13 .container .row {
+        padding: 50px;
+
+
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .sec-13 .container .row {
+        padding: 15px;
+        flex-wrap: wrap;
+        /* justify-content: center; */
+    }
+
+}
+
+@media only screen and (max-width: 991px) {
+    .sec-13 .container .row .box {
+        width: 35%;
+        /* flex-wrap: wrap; */
+        margin: 30px;
+    }
+}
+@media only screen and (max-width: 768px){
+    .sec-13 .container .row{
+        justify-content: center;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .sec-13 .container .row .box {
+        width: 80%;
+        margin: 25px 45px;
+        /* padding: 1px 0; */
+    }
+}
+@media only screen and (max-width: 576px) {
+    .sec-13 .container {
+        pad: 0;
+    }
+}
+
+@media only screen and (max-width: 1370px) {
+    .sec-9 .container {
+        padding: 0 90px;
+    }
+}
+@media only screen and (max-width: 991px) {
+    .sec-9 .container {
+        flex-wrap: wrap;
+    }
+    .sec-9 .container .box{
+        width: 34%;
+        margin: 5px;
+    }
+}
+
+@media only screen and (max-width: 1360px){
+    .sec-14 .container{
+        padding-left: 50px;
+    }
+}
+@media only screen and (max-width: 1200px){
+    .sec-14 .container{
+        padding-left: 50px;
+    }
+}
+@media only screen and (max-width: 991px){
+    .sec-14 .container .main{
+        flex-wrap: wrap;
+        /* justify-content: center; */
+    }
+    .sec-14 .container .main .information{
+        width: 80%;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .sec-14 .container .main .information .form form .php-form{
+        flex-wrap: wrap;
+    }
+    .sec-14 .container .main .information .form form .php-form{
+        /* width: 80%; */
+    }
+    .sec-14 .container .main .information{
+        width: 80%;
+    }
+
+}
+@media only screen and (max-width: 576px) {
+    .sec-14 .container {
+        padding: 0;
+    }
+}
+@media only screen and (max-width: 1365px) {
+    .sec-15 .footer .footer-top .container {
+        padding-left: 50px;
+        padding-right: 50px;
+
+    }
+    .sec-15 .footer .footer-bottom .container {
+        padding-left: 50px;
+        padding-right: 50px;
+
+    }
+    
+}
+
+ @media only screen and (max-width: 576px) {
+    .sec-15 .footer .footer-top .container {
+        padding: 0;
+
+    }
+    
+} 
+
+@media only screen and (max-width: 991px) {
+    .sec-15 .footer .footer-top .container .row-content{
+        flex-wrap: wrap;
+        
+        /* justify-content: center; */
+    }
+    .sec-15 .footer .footer-top .container .row-content .sections {
+        width: 50%;
+    }
+    
+}
+@media only screen and (max-width:768px) {
+    .sec-15 .footer .footer-top .container .row-content .sections {
+        width: 100%;
+        
+    }
+    .sec-15 .footer .footer-bottom {
+        height: 150px;
+    }
+    .sec-15 .footer .footer-bottom .container .main{
+        flex-direction: column;
+         justify-content: center;
+        text-align: center;
+         gap: 20px;
+    }
+    .sec-15 .footer .footer-bottom .container .main .copy {
+        width: 100%;
+    }
+    .sec-15 .footer .footer-bottom .container .main .copy .social-links {
+        width: 100%;
+        
+    }
+}
